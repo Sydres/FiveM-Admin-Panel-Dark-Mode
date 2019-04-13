@@ -6,7 +6,7 @@ This is a CSS theme for the FIVEM-ADMIN-PANEL (https://github.com/CADOJRP/FiveM-
 
 - The FiveM Admin Panel 
 
-## INSTALATION ##
+## INSTALLATION ##
 
 Replace this CSS folder with the default one located under /app/ folder
 
