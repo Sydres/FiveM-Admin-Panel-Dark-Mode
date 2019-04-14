@@ -2,6 +2,10 @@
 
 This is a CSS theme for the FIVEM-ADMIN-PANEL (https://github.com/CADOJRP/FiveM-AdministrationPanel or https://discord.gg/vENY7NZ0)
 
+## Screenshots
+
+![](/screenshots/Screenshot%20(170)_LI.jpg)
+
 ## REQUIREMENTS ##
 
 - The FiveM Admin Panel 
